@@ -1,0 +1,73 @@
+[
+  {
+    "id": "whitehub",
+    "name": "White Hub Room",
+    "price": 60,
+    "description": "Ensuite, lounge, balcony, comfy bed/sofas, uncapped Wi-Fi, secure parking, quiet environment, 24-hour surveillance/security.",
+    "images": [
+      "https://imgur.com/a/Hm2mAQx",
+      "https://imgur.com/a/qcSb1o",
+      "https://imgur.com/a/20PniXj"
+    ]
+  },
+  {
+    "id": "yellowhub",
+    "name": "Yellow Hub Room",
+    "price": 60,
+    "description": "Ensuite, lounge, balcony, comfy bed/sofas, uncapped Wi-Fi, secure parking, quiet environment, 24-hour surveillance/security.",
+    "images": [
+      "https://i.imgur.com/g32d0YB.jpeg",
+      "https://i.imgur.com/GFJ8YNM.jpeg",
+      "https://i.imgur.com/W2AXCYJ.jpeg"
+    ]
+  },
+  {
+    "id": "purplehub",
+    "name": "Purple Hub Room",
+    "price": 60,
+    "description": "Ensuite, lounge, balcony, comfy bed/sofas, uncapped Wi-Fi, secure parking, quiet environment, 24-hour surveillance/security.",
+    "images": [
+      "https://i.imgur.com/aHgcWeg.jpeg",
+      "https://i.imgur.com/kZO1Z1I.jpeg"
+    ]
+  },
+  {
+    "id": "executive1",
+    "name": "Executive Room 1",
+    "price": 50,
+    "description": "Ensuite, comfy bed, uncapped Wi-Fi, very secure and quiet.",
+    "images": [
+      "https://i.imgur.com/9Cw6STy.jpeg",
+      "https://i.imgur.com/ZIBj1id.jpeg",
+      "https://i.imgur.com/b3v0nt6.jpeg"
+    ]
+  },
+  {
+    "id": "executive2",
+    "name": "Executive Room 2",
+    "price": 50,
+    "description": "Ensuite, comfy bed, uncapped Wi-Fi, very secure and quiet.",
+    "images": [
+      "https://i.imgur.com/6odsK6w.jpeg",
+      "https://i.imgur.com/J036XjK.jpeg"
+    ]
+  },
+  {
+    "id": "standard1",
+    "name": "Standard Room 1",
+    "price": 40,
+    "description": "Shared bath/toilet, comfy bed, uncapped Wi-Fi.",
+    "images": [
+      "https://i.imgur.com/asyBqVD.jpeg"
+    ]
+  },
+  {
+    "id": "standard2",
+    "name": "Standard Room 2",
+    "price": 40,
+    "description": "Shared bath/toilet, comfy bed, uncapped Wi-Fi.",
+    "images": [
+      "https://i.imgur.com/ltKg5zB.jpeg"
+    ]
+  }
+]
